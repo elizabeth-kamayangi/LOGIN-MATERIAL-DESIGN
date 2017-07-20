@@ -1,0 +1,18 @@
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\bin\Debug\LOGIN DESIGN.exe.config
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\LOGIN DESIGN.csprojResolveAssemblyReference.cache
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\App.g.cs
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\LOGIN DESIGN_MarkupCompile.cache
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\bin\Debug\LOGIN DESIGN.exe
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\bin\Debug\LOGIN DESIGN.pdb
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\bin\Debug\MaterialDesignColors.dll
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\MainWindow.g.cs
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\LOGIN DESIGN_MarkupCompile.lref
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\MainWindow.baml
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\LOGIN DESIGN.g.resources
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\LOGIN_DESIGN.Properties.Resources.resources
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\LOGIN DESIGN.csproj.GenerateResource.Cache
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\LOGIN DESIGN.exe
+c:\users\hp pavilion\documents\visual studio 2015\Projects\LOGIN DESIGN\LOGIN DESIGN\obj\Debug\LOGIN DESIGN.pdb
