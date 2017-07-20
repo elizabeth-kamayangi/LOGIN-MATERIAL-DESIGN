@@ -11,6 +11,7 @@
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.TextBox.xaml" />
+                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Button.xaml" />
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
 
@@ -18,12 +19,23 @@
 
     <Grid>
         <TextBox
-                 materialDesign:HintAssist.Hint="Large Font"
+                 materialDesign:HintAssist.Hint="username"
                  materialDesign:TextFieldAssist.TextBoxViewMargin="1 0 1 0"
                  materialDesign:HintAssist.FloatingScale="0.50"                 
-                 Text="Some Text"
+                 Text=""
                  Style="{StaticResource MaterialDesignFloatingHintTextBox}"
                     FontSize="24" Margin="131,68,138,193"/>
+        <TextBox
+                 materialDesign:HintAssist.Hint="password"
+                 materialDesign:TextFieldAssist.TextBoxViewMargin="1 0 1 0"
+                 materialDesign:HintAssist.FloatingScale="0.50"                 
+                 Text=""
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    FontSize="24" Margin="131,150,138,111"/>
+        <Button Style="{StaticResource MaterialDesignRaisedDarkButton}" Margin="200,240,217,47" Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightDarkButton">
+            _LOGIN
+        </Button>
 
 
     </Grid>
